@@ -1,0 +1,15 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+scikit-image>=0.18.0
+dlib>=19.22.0
+face-recognition>=1.3.0
+pyzbar>=0.1.8
+python-barcode>=0.13.1
+pytesseract>=0.3.8
+scipy>=1.7.0
+pillow>=8.0.0
+tensorflow>=2.0.0  # For neural style transfer and YOLO
+
+#note: dlib might need CMake and C++ build tools
+#note2: pytesseract requires Tesseract OCR to be installed on the system
